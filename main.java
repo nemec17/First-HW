@@ -8,6 +8,7 @@ public class main {
 
         String[] nam = {"Vasya", "Sasha", "Masha", "Rita", "Olya", "Jenya", "Dima", "Alexey"};
 
+        
         for (int i = 0; i < nam.length; i++) {
             double weig = 150 + (Math.random() * 100);
             weig = (int) weig;
