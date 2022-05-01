@@ -9,7 +9,6 @@ public class Cource <P extends Distance>{
         this.obstacles = obstacles;
 
     }
-
     public void doIt(Title title) {
         for (P obstacle : obstacles) {
             obstacle.doIt(title);
