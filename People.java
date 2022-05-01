@@ -28,6 +28,7 @@ public class People {
     public double StaminaIfRun() {
         return stamina;
     }
+    
     public Map<String, Boolean> getResult(Title title) {
         return result;
     }
