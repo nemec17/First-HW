@@ -11,6 +11,7 @@ public class Title extends Cource{
             possible.getResult(title);
         }
     }
+    
     public Title(String title, People ... peoples) {
         this.title = title;
         this.peoples = peoples;
