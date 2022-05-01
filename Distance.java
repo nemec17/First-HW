@@ -19,6 +19,7 @@ public class Distance extends Cource{
                 }
             }
         }
+        
     public String toString() {
         return "Пробежит ли участник дистанцию, и хватит ли у него выносливости, есть припятствия и их нужно перепрыгнуть.";
     }
